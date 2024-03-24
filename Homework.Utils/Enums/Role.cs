@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Homework.Utils.Enums
 {
-    internal enum Role
+    public enum Role
     {
         Admin=1,
         Member
